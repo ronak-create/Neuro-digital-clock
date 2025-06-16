@@ -1,2 +1,5 @@
 # Neuro-digital-clock
-A digital clokc based on neuromorphic theme, that tick every living second
+
+A digital clock based on a neuromorphic theme, that ticks every living second.
+
+![Digital Clock](./digi_clock.png)
